@@ -1,5 +1,5 @@
 import React from 'react'
-import './CardItem.css'
+import './NestedCardItem.css'
 import NestedCardBody from './NestedCardBody'
 
 function NestedCardItem(props) {

@@ -4,7 +4,7 @@ import Header from "../../components/Shared/Header/Header";
 import Navbar from '../../components/Shared/Header/Navbar';
 import Carousal from '../../components/Shared/carousal/Carousal';
 import Alerts from '../../components/Shared/Alerts/Alerts';
-import NestedCardItem from '../../components/Shared/Cards/CardItem';
+import NestedCardItem from '../../components/Shared/Cards/NestedCardItem';
 import SimpleCardItem from '../../components/Shared/Cards/SimpleCardItem';
 import Footer from '../../components/Shared/Footer/Footer';
 
