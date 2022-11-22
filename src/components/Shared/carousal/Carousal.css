@@ -1,0 +1,7 @@
+.carousel {
+    height: 250px;
+    margin: 0 !important;
+}
+.carousel-item  img{
+    cursor: pointer;
+}

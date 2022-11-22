@@ -1,0 +1,16 @@
+.imageDiv {
+    width: 70%;
+    margin: auto;
+}
+img {
+    border-radius: 23px !important;
+}
+.card-body {
+    text-align: center;
+}
+.card {
+    background-color: aliceblue;
+}
+h5 {
+    font-size: 18px;
+}

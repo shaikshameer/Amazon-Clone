@@ -1,0 +1,11 @@
+.cardInnerItem {
+    padding: 5px 10px;
+    text-align: center;
+}
+.cardInnerItem img {
+    max-width: 120px;
+}
+.cardInnerItem p {
+    margin: 0px;
+    padding: 5px;
+}

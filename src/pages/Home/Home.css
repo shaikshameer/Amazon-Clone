@@ -1,0 +1,10 @@
+.cardItemRow {
+    padding: 20px 10px 0 10px !important;
+}
+.cardWrapper {
+    padding: 0px 8px !important;
+}
+.cardHeader p {
+    margin: 0;
+    padding: 0px 10px 15px 10px;
+}

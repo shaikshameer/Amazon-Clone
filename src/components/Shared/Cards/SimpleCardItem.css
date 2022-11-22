@@ -1,0 +1,15 @@
+.simpleCardBody img {
+    min-height: 270px !important;
+    max-height: 270px !important;
+    object-fit: cover;
+    cursor: pointer;
+}
+.cardFooter p {
+    margin: 0 !important;
+}
+.cardFooter {
+    padding-top: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
